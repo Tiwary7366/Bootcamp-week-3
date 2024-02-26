@@ -1,2 +1,1 @@
-# Bootcamp-week-3
-Claim management system
+This is a sample README file.
